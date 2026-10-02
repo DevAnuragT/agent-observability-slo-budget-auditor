@@ -1,0 +1,11 @@
+spec_version: "0.1.0"
+name: observability-slo-budget-auditor
+version: 0.1.0
+description: "Checks declared SLO target, error-budget consumption, and measurement window."
+skills:
+  - observability-slo-budget-auditor-skill
+tools:
+  - audit-observability-slo-budget-auditor
+tags:
+  - site-reliability
+  - evidence-driven

@@ -1,0 +1,5 @@
+{
+  "slo_target_percent": 99.9,
+  "error_budget_spent_percent": 22,
+  "measurement_window_days": 30
+}
